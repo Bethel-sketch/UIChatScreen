@@ -1,0 +1,32 @@
+:root { 
+  --alto: #dadada;
+  --apple: #3abf38;
+  --black: #000000;
+  --link-water: #dce5ff;
+  --mercury: #e6e6e6;
+  --sapphire: #3a449e;
+  --sapphire-2: #3a449e0a;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 16px;
+  --font-size-s: 13px;
+  --font-size-s2: 24px;
+ 
+  --font-family-nunito: "Nunito", Helvetica;
+}
+.nunito-bold-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-bold-mercury-16px {
+  color: var(--mercury);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}

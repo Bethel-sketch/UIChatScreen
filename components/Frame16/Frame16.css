@@ -1,0 +1,22 @@
+.frame {
+  align-items: center;
+  background-color: var(--alto);
+  border-radius: 25px 0px 25px 25px;
+  display: flex;
+  gap: 10px;
+  height: 190px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 39px;
+  width: 365px;
+}
+
+.hello-a-roth-ira-is {
+  height: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 322px;
+}
+
